@@ -83,7 +83,7 @@ function Contact() {
 
         {success && (
           <p className="success-msg">
-            Message sent successfully ✔
+            Message sent successfuully ✔
           </p>
         )}
 
