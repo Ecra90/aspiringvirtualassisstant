@@ -46,7 +46,7 @@ function Experience() {
 
         <p>
           Every project has helped me grow as a developer,
-          moving closer to building intelligent virtual assistants.
+          moving closer to building intelligent websites and applications.
         </p>
       </div>
 

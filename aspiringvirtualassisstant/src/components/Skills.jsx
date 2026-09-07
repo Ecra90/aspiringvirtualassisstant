@@ -65,7 +65,7 @@ function Skills() {
 
         <p>
           Building modern web applications and
-          intelligent assistant solutions using
+          intelligent tech solutions using
           industry-standard technologies.
         </p>
       </div>

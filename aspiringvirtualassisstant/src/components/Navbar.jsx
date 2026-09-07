@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="logo">
-        VA Portfolio
+        Full Stack Developer Portfolio
       </div>
 
       <ul>

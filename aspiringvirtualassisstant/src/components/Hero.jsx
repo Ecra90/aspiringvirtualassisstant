@@ -5,12 +5,12 @@ function Hero() {
       <div className="hero-content">
 
         <h1>
-          Virtual Assistant Developer
+          Full Stack Software Developer
         </h1>
 
         <p>
-          Creating AI-powered assistants and
-          productivity tools using React and Flask.
+          Creating innovative web applications and
+          solving complex problems usingEcra Wangeci React and Flask.
         </p>
 
         <div className="hero-buttons">

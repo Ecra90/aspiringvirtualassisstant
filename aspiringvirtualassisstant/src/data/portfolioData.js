@@ -1,12 +1,11 @@
 export const personalInfo = {
   name: "Ecra Wangeci",
-  title: "Virtual Assistant Developer",
+  title: "Full Stack Software Developer",
   location: "Nairobi, Kenya",
 
   bio: `
-  Passionate about building AI-powered assistants,
-  workflow automation systems and productivity tools
-  using React, Flask and Python.
+  Passionate about building web applications and
+  solving complex problems using React, Flask and Python.
   `
 };
 
@@ -26,7 +25,7 @@ export const services = [
   {
     title: "AI Chatbots",
     description:
-      "Custom chatbot interfaces and assistant systems."
+      "Custom chatbot interfaces and applications systems."
   },
   {
     title: "Task Automation",

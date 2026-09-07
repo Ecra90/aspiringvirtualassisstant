@@ -1,16 +1,16 @@
 const projects = [
   {
-    title: "AI Chat Assistant",
+    title: "Real Estate Platform",
     description:
       "React + Flask chatbot with OpenAI integration.",
   },
   {
-    title: "Task Manager Assistant",
+    title: "Task Manager Application",
     description:
       "Create and manage tasks using AI.",
   },
   {
-    title: "Knowledge Base Assistant",
+    title: "Knowledge Base Application",
     description:
       "Search and retrieve company knowledge.",
   },
