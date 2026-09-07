@@ -10,7 +10,7 @@ function Hero() {
 
         <p>
           Creating innovative web applications and
-          solving complex problems usingEcra Wangeci React and Flask.
+          solving complex problems using React and Flask.
         </p>
 
         <div className="hero-buttons">
