@@ -8,10 +8,22 @@ function Services() {
       title: "Task Automation",
       desc: "Workflow automation tools."
     },
-    {
-      title: "API Integration",
-      desc: "Third-party integrations."
-    }
+  {
+    title: "Data Analysis",
+    desc: "Insights from data."
+  },
+  {
+    title: "Content Generation",
+    desc: "AI-generated content."
+  },
+  {
+    title: "Virtual Assistance",
+    desc: "Remote support services."
+  },
+  {
+    title: "API Integration",
+    desc: "Third-party integrations."
+  }
   ];
 
   return (
